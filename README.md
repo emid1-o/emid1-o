@@ -29,6 +29,8 @@
 
 [![Instagram](https://img.shields.io/badge/@emid1o-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emid1o)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/em%C3%ADdio-neto-2bb2a2294/?trk=opento_sprofile_topcard)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/emid1o)
+
 
 ---
 

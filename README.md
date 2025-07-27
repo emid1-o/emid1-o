@@ -10,7 +10,7 @@
 ### 🛠️ Tecnologias que uso ou estudo:
 <div style="display: flex; flex-wrap: wrap;">
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,11 +22,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Coisas inúteis:
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emdi1o&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emdi1o&layout=compact&theme=tokyonight"/>
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mdio_)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html)](https://github.com/emid1-o/github-readme-stats)
 </div>
 
 ---
@@ -41,5 +41,5 @@
   
 </div>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mdio_)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html)](https://github.com/emid1-o/github-readme-stats)
+
+

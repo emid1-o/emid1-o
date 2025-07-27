@@ -1,8 +1,8 @@
 <h1 align="center">Oi, eu sou o Emídio 👋</h1>
 
 <p align="center">
-  🎵 Música • 🎬 Cinema • ☕ Java<br>
-  <strong>Desenvolvedor ruim</strong>
+   Música •  Cinema •  Java<br>
+  <strong>Desempregado</strong>
 </p>
 
 ---

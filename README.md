@@ -24,7 +24,7 @@
 
 ### 📱 Redes sociais
 
-[![Instagram](https://img.shields.io/badge/@emdi1o-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emdi1o)
+[![Instagram](https://img.shields.io/badge/@emd1o-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emd1o)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/em%C3%ADdio-neto-2bb2a2294/?trk=opento_sprofile_topcard)
 
 ---

@@ -24,10 +24,11 @@
 
 ### 📊 Coisas inúteis:
 
-<div align="center">
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mdio_)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html)](https://github.com/emid1-o/github-readme-stats)
-</div>
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=mdio_" alt="My scrobbles">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html" alt="Top Langs">
+</p>
+
 
 ---
 

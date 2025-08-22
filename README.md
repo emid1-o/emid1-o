@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=mdio_" alt="My scrobbles" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html" alt="Top Langs" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html" alt="Top Langs" width="400" padding-left="40px>
 </p>
 
 ---

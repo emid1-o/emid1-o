@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Emídio 👋</h1>
+<h1 align="center"> SO QUERIA UM ESTAGIO </h1>
 
 <p align="center">
    Música •  Cinema •  Java<br>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tecnologias que uso ou estudo:
+### Tecnologias que uso ou estudo:
 <div style="display: flex; flex-wrap: wrap;">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-### 📱 Redes sociais
+### Redes sociais
 
 [![Instagram](https://img.shields.io/badge/@emid1o-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emid1o)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/em%C3%ADdio-neto-2bb2a2294/?trk=opento_sprofile_topcard)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 Coisas inúteis:
+### Coisas inúteis:
 
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=mdio_" alt="My scrobbles" width="400">

@@ -1,4 +1,4 @@
-<h1 align="center"> Aoba! </h1>
+<h1 align="center"> Emídio — Estudante de TI </h1>
 
 <p align="center">
    Música •  Cinema •  Java<br>

@@ -1,4 +1,4 @@
-<h1 align="center"> SO QUERIA UM ESTAGIO </h1>
+<h1 align="center"> Aoba! </h1>
 
 <p align="center">
    Música •  Cinema •  Java<br>

@@ -1,6 +1,6 @@
 
 
-### Tecnologias que uso ou estudo:
+### Medíocre nisso tudo:
 <div style="display: flex; flex-wrap: wrap;">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
